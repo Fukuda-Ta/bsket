@@ -1,4 +1,4 @@
 public class efsgs {
-    1919;
+    String taiichiro;
 }
 
